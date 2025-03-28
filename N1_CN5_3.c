@@ -24,6 +24,9 @@ int main(){
     scanf("%s", &nome);
     printf("Seu nome é: %s\n", nome);
 
+    printf("Digite o seu caractere: ");
+    scanf(" %c", &nome);
+    printf("Seu caractere é: %c\n", nome);
 
 
     /*
